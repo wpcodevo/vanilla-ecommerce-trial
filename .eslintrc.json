@@ -3,6 +3,7 @@
   "plugins": ["prettier"],
   "rules": {
     // "prettier/prettier": "error",
+    "eslint-disable no-undef": 0,
     "spaced-comment": "off",
     "no-console": "warn",
     "consistent-return": "off",
